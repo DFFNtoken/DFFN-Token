@@ -4,6 +4,7 @@
    3% fee auto add to the liquidity pool to locked forever when selling
    3% fee auto distribute to all holders
    3% fee auto moved to charity wallet
+   After whitelist, 500 million tokens will be burned every day for 1 year.
 */
 
 pragma solidity ^0.8.3;
