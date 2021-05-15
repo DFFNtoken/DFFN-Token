@@ -782,7 +782,7 @@ contract DOLPHINTOKEN is Context, IERC20, Ownable {
     mapping (address => bool) private _isExcluded;
     address[] private _excluded;
 
-    address private _charityWalletAddress = 0xB7EaAc04FF15215530D0682A0F77F162BD36dD46;
+    address private _charityWalletAddress = 0xB7EaAc04FF15215530D0682A0F77F162BD36dD??;
    
     uint256 private constant MAX = ~uint256(0);
     uint256 private _tTotal = 365000000000 * 10**18;
@@ -808,7 +808,7 @@ contract DOLPHINTOKEN is Context, IERC20, Ownable {
     bool public swapAndLiquifyEnabled = true;
     
     uint256 public _maxTxAmount = 365000000000 * 10**18;
-    uint256 private numTokensSellToAddToLiquidity = 50000000 * 10**18;
+    uint256 private numTokensSellToAddToLiquidity = "??" * 10**18;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
