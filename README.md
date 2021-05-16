@@ -10,5 +10,5 @@ If you buy and sell dolphin token, you will donate too.
 3% fee is automatically distributed to all holders
 3% fee is automatically moved to charity wallet
 
-After whitelist, 50 million tokens will be burned every day for 1 year. (live on our web site)
+After whitelist, 50 million tokens will burn every day for 1 year. (live on our web site)
 %50 of Total Supply
