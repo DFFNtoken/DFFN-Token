@@ -1,4 +1,8 @@
+
 # Dolphin Finance For Nature
+![DFFN](https://github.com/DFFNtoken/dolphintoken.sol/blob/51296c703252a08a9cf14b1793326edb22f2ea77/png/Dolphin.png "DFFN")
+
+
 ## - SAVE THE NATURE - SAVE THE WORLD - SAVE THE FUTURE 
 
   Our aim is not to contribute to the blockchain, we aim to help organizations that help solve the 
@@ -33,3 +37,10 @@ presenting us such a smart contract.
 
   So, what are we going to do about them?       
   We will contact local and global charities directly or indirectly, purchase the DFFNs accumulated in our donation wallet ourselves, and then donate to the necessary places. We will share the receipt of each donation we make with you both on our website and through all our social network platforms. We will make agreements with various charities. We will conduct surveys on various social platforms. We will donate to the charities you have chosen by looking at the results of the surveys we will make. In addition, we will establish a representational network in every country with people who are devoted to helping like us. We will have a representative that people in every country can reach, which will make it easier to track the donations made. We will have the opportunity to reach organizations that need help more easily. This is the reason you should contact us. Let's create a big and unselfish help network together so that we can create a more inhabitable world. We will be genuine and frank. We will share every step we take with you immediately. We will share with you every institution we meet and our correspondence. When we establish a partnership, we will share on all our social platforms simultaneously. You will be able to reach us at any time and share your problems and requests with us. If there is an organization, community, or person in your country that we need to help, informing us will be enough
+
+![DFFN](https://github.com/DFFNtoken/dolphintoken.sol/blob/51296c703252a08a9cf14b1793326edb22f2ea77/png/dffn1.png "DFFN")
+![DFFN](https://github.com/DFFNtoken/dolphintoken.sol/blob/51296c703252a08a9cf14b1793326edb22f2ea77/png/dffn2.png "DFFN")
+![DFFN](https://github.com/DFFNtoken/dolphintoken.sol/blob/51296c703252a08a9cf14b1793326edb22f2ea77/png/dffn3.png "DFFN")
+
+
+https://www.dolphinfinance.io/
